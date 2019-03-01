@@ -1,6 +1,3 @@
-
-# Final assignment - Szabolcs Kerekes - student ID: 120204
-
 ## Summary of the analysis
 Our analysis aims to answer the following questions:
 1. What is the relationship between accessability of banking services (measured by the number of banks by 1000 people) and the concentration of banks (measured by the Herfindahl-Hirschman Index) currently in Hungary?
